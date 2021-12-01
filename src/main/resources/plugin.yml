@@ -1,0 +1,6 @@
+name: DragonFire
+version: ${project.version}
+main: dev.digitaldragon.dragonfire.Dragonfire
+api-version: 1.17
+authors: [ DigitalDragon ]
+description: A plugin for an unnamed server project so i have something to work on to distract me from depression.

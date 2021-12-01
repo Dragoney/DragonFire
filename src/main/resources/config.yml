@@ -1,0 +1,4 @@
+server-name: 'Unknown'
+server-id: null #will probably cause a crash if server tries to boot like this but that's not terrible soo
+server-type: UNASSIGNED #UNASSIGNED EVENT STAFF SURVIVAL TEST DEV
+maintenence-mode: false #lazy and this is easy

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.badbird5907:bLib-Parent:2.1.2-REL">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/badbird5907/bLib-Parent/2.1.2-REL/bLib-Parent-2.1.2-REL.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/badbird5907/bLib-Parent/2.1.2-REL/bLib-Parent-2.1.2-REL-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/badbird5907/bLib-Parent/2.1.2-REL/bLib-Parent-2.1.2-REL-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
